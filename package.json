@@ -1,0 +1,26 @@
+{
+  "name": "jagbuf",
+  "version": "1.0.0",
+  "description": "A JavaScript wrapper for a Buffer class that implements Jagex byte handling logic.",
+  "main": "src/index.js",
+  "files": [
+    "src/index.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebecca-davies/jagbuf.git"
+  },
+  "keywords": [
+    "jagex",
+    "byte",
+    "buffer",
+    "bytebuffer"
+  ],
+  "author": "Rebecca Davies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebecca-davies/jagbuf/issues"
+  },
+  "homepage": "https://github.com/rebecca-davies/jagbuf#readme"
+}
